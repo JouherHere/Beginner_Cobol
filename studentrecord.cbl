@@ -1,6 +1,6 @@
 //*A simple program to create and print student record*//
 // https://www.tutorialspoint.com/compile_cobol_online.php //
-//*You can use the above mentioned compiler to run the code//*      
+//*You can use the above mentioned compiler to run the code*//     
 
 IDENTIFICATION DIVISION.                     
         PROGRAM-ID. STUDREC.                            
