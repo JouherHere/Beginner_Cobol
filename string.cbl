@@ -1,4 +1,9 @@
-* PRGACCP is a program to accept the string from user and to display the same.     
+* PRGACCP is a program to accept the string from user and to display the same.    
+      
+      ***************************************************
+      * COBOL PROGRAM TO ACCEPT STRING FROM USER AND TO *
+      * DISPLAY THE SAME.                               *
+      ***************************************************
 
         IDENTIFICATION DIVISION.                        
         PROGRAM-ID. PRGACCP.                               
