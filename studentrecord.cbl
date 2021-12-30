@@ -1,13 +1,15 @@
-//*A simple program to create and print student record*//
-// https://www.tutorialspoint.com/compile_cobol_online.php //
-//*You can use the above mentioned compiler to run the code*//     
+      ***************************************************
+      * COBOL PROGRAM TO CREATE AND PRINT STUDENT RECORD*
+      * YOU CAN USE TUTORIALSPOINT ONLINE COMPILER TO   *
+      * COMPILE AND RUN THE CODE.                       *
+      ***************************************************
 
-IDENTIFICATION DIVISION.                     
-        PROGRAM-ID. STUDREC.                            
-        ENVIRONMENT DIVISION.                        
-        DATA DIVISION.                               
-        WORKING-STORAGE SECTION.                     
-        01 RECMOD.                                       
+       IDENTIFICATION DIVISION.                     
+       PROGRAM-ID. STUDREC.                            
+       ENVIRONMENT DIVISION.                        
+       DATA DIVISION.                               
+       WORKING-STORAGE SECTION.                     
+       01 RECMOD.                                       
             02 ROLLNO PIC 9(3).                      
             02 FILLER PIC X.                         
             02 STUDNAME PIC A(8).                     
