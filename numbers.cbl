@@ -1,6 +1,9 @@
 
-* NUMPRNT is a program to accept two numbers from user and display those.    
-* 
+
+      ********************************************
+      * COBOL PROGRAM TO ACCEPT TWO NUMBERS FROM *
+      * USE AND DIPLAY THOSE.                    *
+      ********************************************
 
        IDENTIFICATION DIVISION.              
        PROGRAM-ID. NUMPRNT.                     
